@@ -1,2 +1,2 @@
 # Apparchar
-Programacion de busqueda de eventos en tiempo real
+App móvil de busqueda de eventos en tiempo real
